@@ -2,6 +2,8 @@ Ruby-DancingChars
 =================
 
 Simple script that prints an ordered sequence of characters
+Well, not just ordered. You can even choose your own sequence!!!!! 
+Just for today!
 
 Here's a sample output: 
 
