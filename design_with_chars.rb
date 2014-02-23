@@ -36,7 +36,7 @@ if str.size > 0
 		defaultrotation = false
 	end
 	str.each_char { |c|
-		if c != ' ' && 
+		if c != ' ' 
 			char[index] = c
 			index += 1
 		end
